@@ -20,3 +20,5 @@
 - React Pagination (пагинация)
 - Lodash.Debounce
 - Code Splitting, React Loadable, useWhyDidYouUpdate
+![Screenshot 2023-06-12 150420](https://github.com/zamukaev/react-pizza-v2/assets/79673748/008cab19-c556-48e3-a0b1-82c0e27b6459)
+
